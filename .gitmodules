@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cccd"]
+	path = cccd
+	url = https://github.com/cran/cccd
+	shallow = true
+	registered = true
+[submodule "HyperG"]
+	path = HyperG
+	url = https://github.com/cran/HyperG
+	shallow = true
+	registered = true
