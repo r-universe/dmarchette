@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cccd"]
-	path = cccd
-	url = https://github.com/cran/cccd
 [submodule "HyperG"]
 	path = HyperG
 	url = https://github.com/cran/HyperG
+[submodule "cccd"]
+	path = cccd
+	url = https://github.com/cran/cccd
